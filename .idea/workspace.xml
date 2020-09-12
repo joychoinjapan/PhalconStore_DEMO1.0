@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19d40359-d186-4b87-b486-7e7e49f892b7" name="Default Changelist" comment="commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../cphalcon/phalcon" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1hJs8F4LIz8FB9n7pM19Unks7RU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/views" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19d40359-d186-4b87-b486-7e7e49f892b7" name="Default Changelist" comment="" />
+      <created>1599740367380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599740367380</updated>
+      <workItem from="1599740370880" duration="611000" />
+      <workItem from="1599741096228" duration="736000" />
+      <workItem from="1599798674963" duration="14961000" />
+      <workItem from="1599884879650" duration="7037000" />
+      <workItem from="1599893244964" duration="359000" />
+      <workItem from="1599893711986" duration="1832000" />
+    </task>
+    <task id="LOCAL-00001" summary="ignore">
+      <created>1599893296476</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599893296477</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit">
+      <created>1599894127358</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599894127358</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="ignore" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1022" y="238" key="#PHP" timestamp="1599740449276">
+      <screen x="0" y="23" width="2048" height="1059" />
+    </state>
+    <state x="1022" y="238" key="#PHP/0.23.2048.1059@0.23.2048.1059" timestamp="1599740449276" />
+    <state x="1231" y="375" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599808587489">
+      <screen x="0" y="23" width="2048" height="1059" />
+    </state>
+    <state x="1231" y="375" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2048.1059@0.23.2048.1059" timestamp="1599808587489" />
+    <state x="885" y="181" key="CommitChangelistDialog2" timestamp="1599896461201">
+      <screen x="0" y="23" width="2048" height="1061" />
+    </state>
+    <state x="885" y="181" key="CommitChangelistDialog2/0.23.2048.1059@0.23.2048.1059" timestamp="1599894126958" />
+    <state x="885" y="181" key="CommitChangelistDialog2/0.23.2048.1061@0.23.2048.1061" timestamp="1599896461201" />
+    <state x="746" y="226" key="SettingsEditor" timestamp="1599896631651">
+      <screen x="0" y="23" width="2048" height="1061" />
+    </state>
+    <state x="746" y="226" key="SettingsEditor/0.23.2048.1059@0.23.2048.1059" timestamp="1599740542632" />
+    <state x="746" y="226" key="SettingsEditor/0.23.2048.1061@0.23.2048.1061" timestamp="1599896631651" />
+    <state x="932" y="349" key="Vcs.Push.Dialog.v2" timestamp="1599894150478">
+      <screen x="0" y="23" width="2048" height="1059" />
+    </state>
+    <state x="932" y="349" key="Vcs.Push.Dialog.v2/0.23.2048.1059@0.23.2048.1059" timestamp="1599894150478" />
+    <state x="1124" y="294" width="670" height="675" key="search.everywhere.popup" timestamp="1599886873645">
+      <screen x="0" y="23" width="2048" height="1059" />
+    </state>
+    <state x="1124" y="294" width="670" height="675" key="search.everywhere.popup/0.23.2048.1059@0.23.2048.1059" timestamp="1599886873645" />
+    <state x="1124" y="295" width="670" height="676" key="search.everywhere.popup/0.23.2048.1062@0.23.2048.1062" timestamp="1599816003705" />
+  </component>
+</project>
